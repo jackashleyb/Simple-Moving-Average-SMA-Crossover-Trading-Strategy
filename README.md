@@ -3,6 +3,7 @@ A beginner-friendly Python project that implements a Simple Moving Average (SMA)
 
 
 This project was built by following a hands-on tutorial(https://www.youtube.com/watch?v=PUk5E8G1r44) and serves as an introduction to algorithmic trading concepts. 
+------------
 
 What I Learnt throughout this project. 
 
@@ -11,6 +12,7 @@ What I Learnt throughout this project.
 - Python data analysis workflows
 - Translating trading ideas into code
 
+--------------
 
 The SMA crossover strategy uses two moving averages:
 - Short-term SMA (fast)
@@ -21,6 +23,7 @@ Trading signals are generated as follows:
 - Sell Signal: Short-term SMA crosses below the long-term SMA
 - This is a classic trend-following strategy commonly used to identify potential market entry and exit points.
 
+---------------
 
 Features
 
@@ -29,6 +32,7 @@ Features
 - Visualizes price data, SMAs, and trading signals with matplotlib
 - Easy to modify SMA periods and test different assets
 
+-------------
 
 Tech Stack
 - Python
