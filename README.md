@@ -2,7 +2,7 @@
 A beginner-friendly Python project that implements a Simple Moving Average (SMA) crossover trading strategy using historical market data. 
 
 
-This project was built by following a hands-on tutorial(https://www.youtube.com/watch?v=PUk5E8G1r44) and serves as an introduction to algorithmic trading concepts. 
+This project was built by following a hands-on tutorial [here] (https://www.youtube.com/watch?v=PUk5E8G1r44) and serves as an introduction to algorithmic trading concepts. 
 ------------
 
 What I Learnt throughout this project. 
