@@ -30,7 +30,7 @@ Features
 - Easy to modify SMA periods and test different assets
 
 
-🛠️ Tech Stack
+Tech Stack
 - Python
 - pandas
 - matplotlib
